@@ -1,0 +1,33 @@
+*{
+  background-color: black;
+  color:aliceblue;
+  /* background-image: url("https://media.istockphoto.com/id/2151044386/photo/hiking-path-in-seiser-alm-at-sunrise.jpg?s=2048x2048&w=is&k=20&c=kA-frxQt5ui3uFGgS0OQRP5BrOJ5bvIvMIw-I1g-Hpk="); */
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+
+  
+  
+}
+.btn{
+  
+  background-color: rgb(93, 227, 48);
+  color: rgb(15, 15, 15);
+  width :100px ;
+  font-size: larger;
+  font-weight: 500;
+}
+input{
+  padding: 3px;
+  margin: 5px;
+  border-radius: 10px;
+  border: 3px solid rgb(231, 122, 122);
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ 
+}
